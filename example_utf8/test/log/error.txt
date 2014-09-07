@@ -1,0 +1,5 @@
+2014-09-07 2:52:22 - 閫氱煡:memcache_connect() [<a href='function.memcache-connect'>function.memcache-connect</a>]: Server 127.0.0.1 (tcp 11211) failed with: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ (10060) at:E:\www\kyphp_framework\kyphp\kyclass\cache\ky_memcache.php line:21
+2014-09-07 2:52:22 - 璀﹀憡:memcache_connect() [<a href='function.memcache-connect'>function.memcache-connect</a>]: Can't connect to 127.0.0.1:11211, 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ (10060) at:E:\www\kyphp_framework\kyphp\kyclass\cache\ky_memcache.php line:21
+2014-09-07 2:52:22 - 璀﹀憡:session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at E:\www\kyphp_framework\kyphp\kycmd\message.php:95) at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Session.php line:28

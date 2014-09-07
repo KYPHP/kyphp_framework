@@ -1,0 +1,35 @@
+从v1.0版本升到v2.0版本
+
+更改index.php
+v1.0 的
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+// 定义 科亿php框架路径
+define('KY_PATH', '../frm');
+//定义项目名称和路径
+define('APP_PATH', '.');
+// 加载框架入口文件
+require(KY_PATH."/kyphp.php");
+//实例化一个网站应用实例
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+v2.0
+=================================
+// 定义 科亿php框架路径
+define('APP_PATH',dirname(__FILE__));//当前项目路径
+define('KYPHP_PATH',APP_PATH.'/../../kyphp/');//KYPHP框架路径
+define('__CHARSET__','gbk');
+require KYPHP_PATH."kyphp.php";
+//如果要自定义config路径，需要定义__CONFIG__
+//define('__CONFIG__',APP_PATH.'/config.php');
+//$config=require(__CONFIG__);
+KYPHP::Run(); //自定义config请定义后用KYPHP::Run($config); index和config可合并为同一文件
+==================================
+
+config.php中增加
+========================================
+'DEFAULT_C_PATH' =>'lib', //已更改为controller
+'app_dir' =>'.',　//已更改为app
+
+
+========================================
+2.0不再支持$mysql全局及fetch_array

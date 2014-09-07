@@ -1,0 +1,138 @@
+2014-09-07 7:51:35 - ֪ͨ:Error: Table 'kyfrm.sort' doesn't exist<br />Error No: 1146<br />select * from sort at:E:\www\kyphp_framework\kyphp\kyclass\db\ky_mysql.php line:64
+2014-09-07 7:53:36 - ֪ͨ:Undefined property: indexAction::$dbpre at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:10
+2014-09-07 7:53:36 - ֪ͨ:Error: Table 'kyfrm.sort' doesn't exist<br />Error No: 1146<br />select * from sort at:E:\www\kyphp_framework\kyphp\kyclass\db\ky_mysql.php line:64
+2014-09-07 8:01:38 - ֪ͨ:Undefined property: indexAction::$dbpre at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:10
+2014-09-07 8:01:38 - ֪ͨ:Error: Table 'kyfrm.sort' doesn't exist<br />Error No: 1146<br />select * from sort at:E:\www\kyphp_framework\kyphp\kyclass\db\ky_mysql.php line:64
+2014-09-07 8:02:51 - ֪ͨ:Use of undefined constant parentid - assumed 'parentid' at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:02:51 - ֪ͨ:Use of undefined constant parentid - assumed 'parentid' at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:02:51 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:02:51 - ֪ͨ:Use of undefined constant parentid - assumed 'parentid' at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:02:51 - ֪ͨ:Undefined variable: dblist2 at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:17
+2014-09-07 8:02:51 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:02:51 - ֪ͨ:Undefined index:  sortname at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:02:51 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:02:51 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:02:51 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:02:51 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:02:51 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:05:07 - ֪ͨ:Use of undefined constant parentid - assumed 'parentid' at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:05:07 - ֪ͨ:Use of undefined constant parentid - assumed 'parentid' at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:05:07 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:05:07 - ֪ͨ:Use of undefined constant parentid - assumed 'parentid' at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:05:07 - ֪ͨ:Undefined variable: dblist2 at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:17
+2014-09-07 8:05:07 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:05:07 - ֪ͨ:Undefined index:  sortname at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:05:07 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:05:07 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:05:07 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:05:07 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:05:07 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:06:19 - ֪ͨ:Use of undefined constant parentid - assumed 'parentid' at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:06:19 - ֪ͨ:Use of undefined constant parentid - assumed 'parentid' at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:06:19 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:06:19 - ֪ͨ:Use of undefined constant parentid - assumed 'parentid' at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:06:19 - ֪ͨ:Undefined variable: dblist2 at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:17
+2014-09-07 8:06:19 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:06:19 - ֪ͨ:Undefined index:  sortname at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:06:19 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:06:19 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:06:19 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:06:19 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:06:19 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:06:33 - ֪ͨ:Use of undefined constant parentid - assumed 'parentid' at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:06:33 - ֪ͨ:Use of undefined constant parentid - assumed 'parentid' at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:06:33 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:06:33 - ֪ͨ:Use of undefined constant parentid - assumed 'parentid' at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:06:33 - ֪ͨ:Undefined variable: dblist2 at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:17
+2014-09-07 8:06:33 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:06:33 - ֪ͨ:Undefined index:  sortname at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:06:33 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:06:33 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:06:33 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:06:33 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:06:33 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:07:37 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:07:37 - ֪ͨ:Undefined variable: dblist2 at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:17
+2014-09-07 8:07:37 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:07:37 - ֪ͨ:Undefined index:  sortname at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:07:37 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:07:37 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:07:37 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:07:37 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:07:37 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:09:11 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:13
+2014-09-07 8:09:11 - ֪ͨ:Undefined variable: dblist2 at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:17
+2014-09-07 8:09:11 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:09:11 - ֪ͨ:Undefined index:  sortname at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:09:11 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:09:11 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:09:11 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:09:11 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:09:11 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:11:01 - ֪ͨ:Undefined variable: dblist2 at:E:\www\kyphp_framework\example_gbk\exam_list\lib\index.class.php line:17
+2014-09-07 8:11:01 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:11:01 - ֪ͨ:Undefined index:  sortname at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:11:01 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:11:01 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:11:01 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:11:01 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:11:01 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:11:29 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:11:29 - ֪ͨ:Undefined index:  sortname at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:11:29 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:11:29 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:11:29 - ֪ͨ:Undefined index:  1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:11:29 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:11:29 - ֪ͨ:Undefined index:   at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:11:29 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:11:29 - ֪ͨ:Undefined index:   at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:11:29 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:16:35 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:16:35 - ֪ͨ:Undefined index:  sortname at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:16:35 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:16:35 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:16:35 - ֪ͨ:Undefined index:  1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:16:35 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:16:35 - ֪ͨ:Undefined index:   at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:16:35 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:16:35 - ֪ͨ:Undefined index:   at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:16:35 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:16:39 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:16:39 - ֪ͨ:Undefined index:  sortname at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:16:39 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:16:39 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:16:39 - ֪ͨ:Undefined index:  1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:16:39 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:16:39 - ֪ͨ:Undefined index:   at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:16:39 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:16:39 - ֪ͨ:Undefined index:   at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:16:39 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:19:44 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:19:44 - ֪ͨ:Undefined index:  sortname at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:19:44 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:19:44 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:19:44 - ֪ͨ:Undefined index:  1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:19:44 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:19:44 - ֪ͨ:Undefined index:   at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:19:44 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:19:44 - ֪ͨ:Undefined index:   at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:19:44 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:19:48 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:19:48 - ֪ͨ:Undefined index:  sortname at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:19:48 - ֪ͨ:Undefined index:  parentid at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:19:48 - ֪ͨ:Undefined index:  id at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php(64) : regexp code line:1
+2014-09-07 8:19:48 - ֪ͨ:Undefined index:  1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:19:48 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:19:48 - ֪ͨ:Undefined index:   at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:19:48 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:19:48 - ֪ͨ:Undefined index:   at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:19:48 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:22:37 - ֪ͨ:Undefined index:  1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:22:37 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:22:37 - ֪ͨ:Undefined index:   at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:22:37 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:22:37 - ֪ͨ:Undefined index:   at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:24
+2014-09-07 8:22:37 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:23:36 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:23:36 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36
+2014-09-07 8:23:36 - ֪ͨ:Undefined variable: content1 at:E:\www\kyphp_framework\kyphp\kycmd\cmd.php line:36

@@ -1,0 +1,15 @@
+2014-09-07 8:32:02 - 致命:文件："action不存在不存在"  at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:27
+2014-09-07 8:32:14 - 警告:Cannot modify header information - headers already sent by (output started at E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php:270) at:E:\www\kyphp_framework\example_utf8\manage\controller\public.class.php line:44
+2014-09-07 8:34:52 - 致命:文件："action不存在不存在"  at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:27
+2014-09-07 8:36:54 - 致命:文件："action不存在不存在"  at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:27
+2014-09-07 8:37:06 - 警告:Cannot modify header information - headers already sent by (output started at E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php:270) at:E:\www\kyphp_framework\example_utf8\manage\controller\public.class.php line:44
+2014-09-07 8:37:28 - 致命:文件："action不存在不存在"  at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:27
+2014-09-07 8:38:54 - 致命:文件："action不存在不存在"  at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:27
+2014-09-07 8:38:57 - 警告:Cannot modify header information - headers already sent by (output started at E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php:271) at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:265
+2014-09-07 8:38:57 - 通知:Undefined index:  password at:E:\www\kyphp_framework\example_utf8\manage\controller\public.class.php line:43
+2014-09-07 8:38:57 - 警告:Cannot modify header information - headers already sent by (output started at E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php:271) at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:265
+2014-09-07 8:39:24 - 通知:Undefined index:  password at:E:\www\kyphp_framework\example_utf8\manage\controller\public.class.php line:43
+2014-09-07 8:39:29 - 通知:Undefined index:  password at:E:\www\kyphp_framework\example_utf8\manage\controller\public.class.php line:43
+2014-09-07 8:44:13 - 警告:Cannot modify header information - headers already sent by (output started at E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php:271) at:E:\www\kyphp_framework\example_utf8\manage\controller\public.class.php line:48
+2014-09-07 8:44:22 - 警告:Cannot modify header information - headers already sent by (output started at E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php:271) at:E:\www\kyphp_framework\example_utf8\manage\controller\public.class.php line:48
+2014-09-07 8:44:34 - 警告:Cannot modify header information - headers already sent by (output started at E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php:271) at:E:\www\kyphp_framework\example_utf8\manage\controller\public.class.php line:48

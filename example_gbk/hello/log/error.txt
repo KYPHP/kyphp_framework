@@ -1,0 +1,14 @@
+2014-09-07 2:53:38 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7
+2014-09-07 2:53:58 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7
+2014-09-07 2:55:39 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7
+2014-09-07 2:56:09 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7
+2014-09-07 2:58:20 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7
+2014-09-07 2:59:55 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7
+2014-09-07 3:00:46 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7
+2014-09-07 3:02:56 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7
+2014-09-07 3:03:15 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7
+2014-09-07 3:03:37 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7
+2014-09-07 3:04:28 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7
+2014-09-07 3:04:33 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7
+2014-09-07 3:05:40 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7
+2014-09-07 3:06:32 - ֪ͨ:Undefined variable: i at:E:\www\kyphp_framework\example_gbk\hello\app\controller\index.class.php line:7

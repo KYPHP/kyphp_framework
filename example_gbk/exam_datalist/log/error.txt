@@ -1,0 +1,3 @@
+2014-09-07 6:26:31 - 致命:文件："E:\www\kyphp_framework\example_gbk\exam_datalist/app/controller/index.class.php不存在<br>请指定app_dir<br>indexAction不存在"  at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:27
+2014-09-07 6:31:39 - 致命:文件："E:\www\kyphp_framework\example_gbk\exam_datalist/app/lib/index.class.php不存在<br>请指定app_dir<br>indexAction不存在"  at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:27
+2014-09-07 6:55:05 - 警告:session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at E:\www\kyphp_framework\kyphp\kycmd\cmd.php:368) at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Session.php line:28

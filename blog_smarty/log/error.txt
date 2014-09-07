@@ -1,0 +1,116 @@
+2014-09-06 12:54:01 - 警告:Missing argument 1 for Action::__construct(), called in E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php on line 18 and defined at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:19
+2014-09-06 12:54:01 - 警告:Missing argument 2 for Action::__construct(), called in E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php on line 18 and defined at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:19
+2014-09-06 12:54:01 - 通知:Undefined variable: KYPHP at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:21
+2014-09-06 12:54:01 - 通知:Undefined variable: KYPHP at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:22
+2014-09-06 12:54:01 - 警告:Invalid argument supplied for foreach() at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:22
+2014-09-06 12:54:01 - 通知:Undefined variable: KYPHP at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:37
+2014-09-06 12:54:01 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:37
+2014-09-06 12:54:37 - 警告:Missing argument 3 for Controller::__construct(), called in E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\KYPHP.php on line 196 and defined at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:17
+2014-09-06 12:54:37 - 通知:Undefined variable: route at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:18
+2014-09-06 12:54:37 - 警告:Missing argument 3 for Controller::__construct(), called in E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\front.php on line 53 and defined at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:17
+2014-09-06 12:54:37 - 通知:Undefined variable: route at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:18
+2014-09-06 13:29:02 - 通知:Indirect modification of overloaded property ControllerPublicUrl::$runtimes has no effect at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 13:33:02 - 通知:Indirect modification of overloaded property ControllerPublicUrl::$runtimes has no effect at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 13:33:33 - 通知:Indirect modification of overloaded property ControllerPublicUrl::$runtimes has no effect at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 13:34:45 - 通知:Indirect modification of overloaded property ControllerPublicUrl::$runtimes has no effect at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 13:36:28 - 通知:Indirect modification of overloaded property ControllerPublicUrl::$runtimes has no effect at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 13:38:16 - 通知:Indirect modification of overloaded property ControllerPublicUrl::$runtimes has no effect at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 13:38:20 - 通知:Indirect modification of overloaded property ControllerPublicUrl::$runtimes has no effect at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 13:40:55 - 通知:Indirect modification of overloaded property ControllerPublicUrl::$runtimes has no effect at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 13:41:10 - 通知:Indirect modification of overloaded property ControllerPublicUrl::$runtimes has no effect at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 13:41:32 - 通知:Indirect modification of overloaded property ControllerPublicUrl::$runtimes has no effect at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 13:44:00 - 通知:Indirect modification of overloaded property ControllerPublicUrl::$runtimes has no effect at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 13:50:58 - 通知:Undefined variable: time at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:149
+2014-09-06 13:53:03 - 通知:Undefined index:   at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:143
+2014-09-06 14:20:51 - 通知:Undefined property: ControllerPublicUrl::$runtimes at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:32
+2014-09-06 14:21:50 - 通知:Undefined property: ControllerPublicUrl::$config at:E:\www\kyphp_framework\blog_smarty\app\controller\public\url.php line:5
+2014-09-06 14:24:37 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:38 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:38 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:39 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:39 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:39 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:39 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:39 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:39 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:40 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:40 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:40 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:40 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:40 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:40 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:24:40 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:25:34 - 通知:Undefined property: ControllerPublicUrl::$config at:E:\www\kyphp_framework\blog_smarty\app\controller\public\url.php line:5
+2014-09-06 14:25:45 - 通知:Undefined property: ControllerPublicUrl::$config at:E:\www\kyphp_framework\blog_smarty\app\controller\public\url.php line:5
+2014-09-06 14:26:43 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:26:47 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:14 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:15 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:16 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:16 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:16 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:16 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:16 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:16 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:16 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:17 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:17 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:17 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:17 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:17 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:17 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:27:17 - 通知:Undefined property: ControllerHomeIndex::$runtimes at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:144
+2014-09-06 14:31:23 - 通知:Undefined property: ControllerPublicUrl::$runtimes at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:25
+2014-09-06 14:31:37 - 通知:Undefined property: ControllerPublicUrl::$runtimes at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:25
+2014-09-06 14:33:11 - 通知:Undefined property: ControllerPublicUrl::$runtimes at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:25
+2014-09-06 14:33:14 - 通知:Undefined property: ControllerPublicUrl::$runtimes at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:25
+2014-09-06 14:33:39 - 通知:Undefined property: ControllerPublicUrl::$runtimes at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:25
+2014-09-06 14:34:19 - 通知:Undefined property: ControllerPublicUrl::$runtimes at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:25
+2014-09-06 14:35:14 - 通知:Undefined variable: _GLOBALS at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 14:35:26 - 通知:Undefined property: ControllerPublicUrl::$runtimes at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:25
+2014-09-06 14:35:30 - 通知:Undefined property: ControllerPublicUrl::$runtimes at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:25
+2014-09-06 14:40:05 - 通知:Undefined index:  class_info at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 14:40:27 - 通知:Undefined index:  class_info at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:19
+2014-09-06 14:41:36 - 通知:Undefined index:  class_info at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:20
+2014-09-06 14:41:58 - 通知:Undefined property: ControllerPublicUrl::$runtimes at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:26
+2014-09-06 14:42:45 - 通知:Undefined property: ControllerPublicUrl::$runtimes at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:26
+2014-09-06 14:47:20 - 通知:Undefined index:  object at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:20
+2014-09-06 14:47:56 - 通知:Undefined property: ControllerPublicUrl::$runtimes at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:26
+2014-09-06 14:57:08 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:10 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:10 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:10 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:10 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:11 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:11 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:11 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:11 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:11 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:12 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:12 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:12 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:12 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:13 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:57:13 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 14:58:40 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:146
+2014-09-06 15:01:15 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:148
+2014-09-06 15:01:40 - 通知:Trying to get property of non-object at:E:\www\kyphp_framework\kyphp\kycmd\message.php line:148
+2014-09-07 2:48:59 - 通知:Undefined property: ControllerInfoView::$runtimes at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:24
+2014-09-07 3:14:59 - 警告:array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:28
+2014-09-07 3:14:59 - 警告:array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:28
+2014-09-07 4:42:11 - 通知:Undefined index:  Controller at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:23
+2014-09-07 4:42:56 - 通知:Undefined index:  Controller at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_mvc\controller.php line:23
+2014-09-07 5:23:01 - 警告:session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at E:\www\kyphp_framework\kyphp\kycmd\message.php:68) at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Session.php line:28
+2014-09-07 5:23:01 - 通知:Undefined variable: controlclassfile at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\KYPHP.php line:250
+2014-09-07 5:23:13 - 警告:session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\KYPHP.php:250) at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Session.php line:28
+2014-09-07 5:24:16 - 警告:session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\KYPHP.php:267) at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Session.php line:28
+2014-09-07 5:24:44 - 警告:session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\KYPHP.php:267) at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Session.php line:28
+2014-09-07 5:31:01 - 警告:Cannot modify header information - headers already sent by (output started at E:\www\kyphp_framework\blog_smarty\app\controller\info\test.php:23) at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:215
+2014-09-07 5:55:20 - 通知:Undefined index:  debug_spent_time at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\front.php line:86
+2014-09-07 6:10:03 - 警告:Missing argument 1 for Action::view(), called in E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\front.php on line 54 and defined at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:101
+2014-09-07 6:10:03 - 通知:Undefined variable: k at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:102
+2014-09-07 6:10:03 - 通知:Undefined variable: k at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:104
+2014-09-07 6:10:03 - 通知:Undefined variable: k at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:105
+2014-09-07 6:10:03 - 通知:Undefined offset:  1 at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:106
+2014-09-07 6:10:03 - 通知:Undefined variable: k at:E:\www\kyphp_framework\kyphp\kyclass\kyphp_base\Action.php line:107
+2014-09-07 9:13:07 - 警告:mysqli::query() expects parameter 2 to be long, array given at:E:\www\kyphp_framework\kyphp\kyclass\db\ky_mysqli.php line:150
